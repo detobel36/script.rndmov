@@ -10,8 +10,10 @@
 		<platform>all</platform>
 		<summary lang="en">Play Random Movie</summary>
 		<summary lang="no">Spill av tilfeldig film</summary>
+		<summary lang="fr">Film aléatoire</summary>
 		<description lang="en">Play a random movie from your Kodi library. Choose from all, watched, or unwatched.</description>
 		<description lang="no">Spill en tilfeldig film fra film bibliteket i Kodi. Velg fra alle, sette, eller usette.</description>
+		<description lang="fr">Lancer aleatoirement un film de votre bibliotheque Kodi. Choisissez entre: tous, vu ou non-vu</description>
 		<license>MIT License</license>
 		<language></language>
 		<source>https://github.com/nagilum/script.rndmov</source>
